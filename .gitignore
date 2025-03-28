@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# macOS system file
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Streamlit logs/cache
+.streamlit/
